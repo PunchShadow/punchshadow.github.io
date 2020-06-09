@@ -4,17 +4,21 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Chou Ying Hsieh
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+title: PhD in National Taiwan University
+email: littleuniverse24@gmail.com
+website: punchshadow.github.io
+
+# Dark mode
+darkmode: true
+
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  PunchShadow
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
+instagram_username: chouying_hs
 linkedin_username: jameswgrant
 # pinterest_username: jekyll
 youtube_username: globalmtb
@@ -58,3 +62,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+
